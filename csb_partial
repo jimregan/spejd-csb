@@ -1,17 +1,27 @@
-Bôłtu,Bôłt:np:top:mi:sg:gen
+Bôłt,Bôłtu:np:top:mi:sg:gen
 Bôłt,Bôłt:np:top:mi:sg:nom
-II Swiatowô Wòjna,II Swiatową Wòjną:np:al:f:sg:ins
-II Swiatowô Wòjna,II Swiatowa Wòjna:np:al:f:sg:nom
-Gdiniô,Gdini:np:top:f:sg:gen
+II Swiatową Wòjną,II Swiatowô Wòjna:np:al:f:sg:ins
+II Swiatowô Wòjna,II Swiatowô Wòjna:np:al:f:sg:nom
+Gdini,Gdiniô:np:top:f:sg:gen
 Gdiniô,Gdiniô:np:top:f:sg:nom
-Sopòt,Sopòtu:np:top:mi:sg:gen
+Sopòtu,Sopòt:np:top:mi:sg:gen
 Sopòt,Sopòt:np:top:mi:sg:nom
-Rëmiô,Rëmi:np:top:f:sg:gen
+Rëmi,Rëmiô:np:top:f:sg:gen
 Rëmiô,Rëmiô:np:top:f:sg:nom
-Rëmiô,Rëmią:np:top:f:sg:ins
-Réda,Rédë:np:top:f:sg:gen
+Rëmią,Rëmiô:np:top:f:sg:ins
+Rédë,Réda:np:top:f:sg:gen
 Réda,Réda:np:top:f:sg:nom
-Wiôlgô Wies,Wiôldżi Wsë:np:top:f:sg:gen
+Redë,Réda:np:top:f:sg:gen
+Reda,Réda:np:top:f:sg:nom
+Wiôldżi Wsë,Wiôlgô Wies:np:top:f:sg:gen
 Wiôlgô Wies,Wiôlgô Wies:np:top:f:sg:nom
-Pùck,Pùcka:np:top:mi:sg:gen
+Pùcka,Pùck:np:top:mi:sg:gen
 Pùck,Pùck:np:top:mi:sg:nom
+lëdzczich,lëdzczi:adj:m:pl:loc
+lëdzczich,lëdzczi:adj:nm:pl:loc
+wejrowsczim,wejrowsczi:adj:mi:sg:loc
+wejrowsczim,wejrowsczi:adj:ma:sg:loc
+wejrowsczi,wejrowsczi:adj:f:sg:loc
+wejrowsczi,wejrowsczi:adj:ma:sg:nom
+wejrowsczi,wejrowsczi:adj:mi:sg:nom
+wejrowsczi,wejrowsczi:adj:mi:sg:acc
