@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cesAna SYSTEM "xcesAnaIPI.dtd">
+<cesAna version="1.0" type="spejd output">
+<chunkList>
+<chunk type="s">
+<tok id="a1" string-range="string-range(p-1,0,4)">
+<orth>Réda</orth>
+<lex><base>Réda</base><ctag>np:top:sg:nom:f</ctag></lex>
+</tok>
+<tok id="a2" string-range="string-range(p-1,6,4)">
+<orth>Réda</orth>
+<lex><base>Réda</base><ctag>np:top:sg:nom:f</ctag></lex>
+</tok>
+<tok id="a3" string-range="string-range(p-1,11,1)">
+<orth>(</orth>
+<lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+</tok>
+<ns/>
+<tok id="a5" string-range="string-range(p-1,12,3)">
+<orth>téż</orth>
+<lex><base>téż</base><ctag>adv</ctag></lex>
+</tok>
+<ns/>
+<tok id="a7" string-range="string-range(p-1,15,1)">
+<orth>:</orth>
+<lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a8" string-range="string-range(p-1,17,4)">
+<orth>Reda</orth>
+<lex><base>Réda</base><ctag>np:top:sg:nom:f</ctag></lex>
+</tok>
+<ns/>
+<tok id="aa" string-range="string-range(p-1,21,1)">
+<orth>,</orth>
+<lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="ab" string-range="string-range(p-1,23,2)">
+<orth>pl</orth>
+</tok>
+<ns/>
+<tok id="ad" string-range="string-range(p-1,25,1)">
+<orth>:</orth>
+<lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="ae" string-range="string-range(p-1,27,4)">
+<orth>Reda</orth>
+<lex><base>Réda</base><ctag>np:top:sg:nom:f</ctag></lex>
+</tok>
+<ns/>
+<tok id="a10" string-range="string-range(p-1,31,1)">
+<orth>,</orth>
+<lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a11" string-range="string-range(p-1,33,2)">
+<orth>de</orth>
+</tok>
+<ns/>
+<tok id="a13" string-range="string-range(p-1,35,1)">
+<orth>:</orth>
+<lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a14" string-range="string-range(p-1,37,5)">
+<orth>Rheda</orth>
+</tok>
+<ns/>
+<tok id="a16" string-range="string-range(p-1,42,1)">
+<orth>)</orth>
+<lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a17" string-range="string-range(p-1,44,1)">
+<orth>-</orth>
+<lex disamb="1"><base>-</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a18" string-range="string-range(p-1,46,4)">
+<orth>gard</orth>
+<lex><base>gard</base><ctag>n:sg:acc:mi</ctag></lex>
+<lex><base>gard</base><ctag>n:sg:nom:mi</ctag></lex>
+</tok>
+<tok id="a19" string-range="string-range(p-1,51,1)">
+<orth>w</orth>
+<lex><base>w</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a1a" string-range="string-range(p-1,53,11)">
+<orth>wejrowsczim</orth>
+</tok>
+<tok id="a1b" string-range="string-range(p-1,65,5)">
+<orth>krézu</orth>
+<lex><base>kréz</base><ctag>n:sg:gen:mi</ctag></lex>
+<lex><base>kréz</base><ctag>n:sg:loc:mi</ctag></lex>
+<lex><base>kréz</base><ctag>n:sg:voc:mi</ctag></lex>
+</tok>
+<tok id="a1c" string-range="string-range(p-1,71,1)">
+<orth>w</orth>
+<lex><base>w</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a1d" string-range="string-range(p-1,73,9)">
+<orth>pòrenkòwi</orth>
+</tok>
+<tok id="a1e" string-range="string-range(p-1,83,8)">
+<orth>Pòmòrsce</orth>
+<lex><base>Pòmòrskô</base><ctag>np:top:sg:loc:f</ctag></lex>
+</tok>
+<ns/>
+<tok id="a20" string-range="string-range(p-1,91,1)">
+<orth>.</orth>
+<lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+<lex><base>.</base><ctag>sent</ctag></lex>
+</tok>
+</chunk>
+<chunk type="s">
+<tok id="a21" string-range="string-range(p-1,94,11)">
+<orth>Archeòlodzë</orth>
+</tok>
+<tok id="a22" string-range="string-range(p-1,106,8)">
+<orth>pòdiwôją</orth>
+</tok>
+<ns/>
+<tok id="a24" string-range="string-range(p-1,114,1)">
+<orth>,</orth>
+<lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a25" string-range="string-range(p-1,116,2)">
+<orth>że</orth>
+<lex><base>że</base><ctag>cnjsub</ctag></lex>
+</tok>
+<tok id="a26" string-range="string-range(p-1,119,1)">
+<orth>ò</orth>
+<lex><base>ò</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a27" string-range="string-range(p-1,121,9)">
+<orth>pierszich</orth>
+</tok>
+<tok id="a28" string-range="string-range(p-1,131,9)">
+<orth>lëdzczich</orth>
+<lex><base>lëdzczi</base><ctag>adj:pl:gen:m</ctag></lex>
+<lex><base>lëdzczi</base><ctag>adj:pl:gen:nm</ctag></lex>
+<lex><base>lëdzczi</base><ctag>adj:pl:loc:m</ctag></lex>
+<lex><base>lëdzczi</base><ctag>adj:pl:loc:nm</ctag></lex>
+</tok>
+<tok id="a29" string-range="string-range(p-1,141,9)">
+<orth>szlachach</orth>
+</tok>
+<tok id="a2a" string-range="string-range(p-1,151,1)">
+<orth>w</orth>
+<lex><base>w</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a2b" string-range="string-range(p-1,153,7)">
+<orth>òbjimie</orth>
+</tok>
+<tok id="a2c" string-range="string-range(p-1,161,10)">
+<orth>dzysdniowi</orth>
+<lex><base>dzysdniowi</base><ctag>adj:sg:dat:f</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:sg:gen:f</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:sg:loc:f</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:pl:nom:ma</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:pl:voc:ma</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:sg:nom:ma</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:sg:voc:ma</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:pl:nom:mi</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:pl:voc:mi</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:sg:acc:mi</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:sg:nom:mi</ctag></lex>
+<lex><base>dzysdniowi</base><ctag>adj:sg:voc:mi</ctag></lex>
+</tok>
+<tok id="a2d" string-range="string-range(p-1,172,4)">
+<orth>Redë</orth>
+<lex><base>Réda</base><ctag>np:top:sg:gen:f</ctag></lex>
+</tok>
+<tok id="a2e" string-range="string-range(p-1,177,4)">
+<orth>mòże</orth>
+<lex><base>mòc</base><ctag>vaux:imperf:pres:p3:sg</ctag></lex>
+</tok>
+<tok id="a2f" string-range="string-range(p-1,182,2)">
+<orth>ju</orth>
+<lex><base>ju</base><ctag>adv</ctag></lex>
+</tok>
+<tok id="a30" string-range="string-range(p-1,185,5)">
+<orth>gôdac</orth>
+</tok>
+<tok id="a31" string-range="string-range(p-1,191,1)">
+<orth>w</orth>
+<lex><base>w</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a32" string-range="string-range(p-1,193,1)">
+<orth>I</orth>
+<lex><base>I</base><ctag>num:sg:indecl:mf</ctag></lex>
+</tok>
+<tok id="a33" string-range="string-range(p-1,195,5)">
+<orth>wiekù</orth>
+</tok>
+<tok id="a34" string-range="string-range(p-1,201,1)">
+<orth>p</orth>
+</tok>
+<ns/>
+<tok id="a36" string-range="string-range(p-1,202,1)">
+<orth>.</orth>
+<lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+<lex><base>.</base><ctag>sent</ctag></lex>
+</tok>
+</chunk>
+<chunk type="s">
+<ns/>
+<tok id="a38" string-range="string-range(p-1,203,1)">
+<orth>n</orth>
+</tok>
+<ns/>
+<tok id="a3a" string-range="string-range(p-1,204,1)">
+<orth>.</orth>
+<lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+<lex><base>.</base><ctag>sent</ctag></lex>
+</tok>
+</chunk>
+<chunk type="s">
+<ns/>
+<tok id="a3c" string-range="string-range(p-1,205,1)">
+<orth>e</orth>
+</tok>
+<ns/>
+<tok id="a3e" string-range="string-range(p-1,206,1)">
+<orth>.</orth>
+<lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+<lex><base>.</base><ctag>sent</ctag></lex>
+</tok>
+<ns/>
+<tok id="a40" string-range="string-range(p-1,207,1)">
+<orth>.</orth>
+<lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+<lex><base>.</base><ctag>sent</ctag></lex>
+</tok>
+</chunk>
+<chunk type="s">
+<tok id="a41" string-range="string-range(p-1,209,7)">
+<orth>Piersze</orth>
+</tok>
+<tok id="a42" string-range="string-range(p-1,217,6)">
+<orth>zôpisë</orth>
+</tok>
+<tok id="a43" string-range="string-range(p-1,224,5)">
+<orth>miona</orth>
+<lex><base>miono</base><ctag>n:pl:acc:nt</ctag></lex>
+<lex><base>miono</base><ctag>n:pl:nom:nt</ctag></lex>
+<lex><base>miono</base><ctag>n:pl:voc:nt</ctag></lex>
+<lex><base>miono</base><ctag>n:sg:gen:nt</ctag></lex>
+</tok>
+<tok id="a44" string-range="string-range(p-1,230,9)">
+<orth>pòchôdają</orth>
+</tok>
+<tok id="a45" string-range="string-range(p-1,240,2)">
+<orth>ze</orth>
+<lex><base>z</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a46" string-range="string-range(p-1,243,10)">
+<orth>Strzédnëch</orth>
+</tok>
+<tok id="a47" string-range="string-range(p-1,254,6)">
+<orth>Wieków</orth>
+</tok>
+<ns/>
+<tok id="a49" string-range="string-range(p-1,260,1)">
+<orth>,</orth>
+<lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a4a" string-range="string-range(p-1,262,9)">
+<orth>brékòwóné</orth>
+</tok>
+<tok id="a4b" string-range="string-range(p-1,272,2)">
+<orth>pò</orth>
+<lex><base>pò</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a4c" string-range="string-range(p-1,275,4)">
+<orth>1358</orth>
+</tok>
+<tok id="a4d" string-range="string-range(p-1,280,4)">
+<orth>rokù</orth>
+<lex><base>rok</base><ctag>n:sg:gen:mi</ctag></lex>
+<lex><base>rok</base><ctag>n:sg:loc:mi</ctag></lex>
+<lex><base>rok</base><ctag>n:sg:voc:mi</ctag></lex>
+</tok>
+<tok id="a4e" string-range="string-range(p-1,285,2)">
+<orth>to</orth>
+<lex><base>to</base><ctag>det:sg:acc:nt:dem</ctag></lex>
+<lex><base>to</base><ctag>det:sg:nom:nt:dem</ctag></lex>
+</tok>
+<ns/>
+<tok id="a50" string-range="string-range(p-1,287,1)">
+<orth>:</orth>
+<lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a51" string-range="string-range(p-1,289,8)">
+<orth>Grężlewo</orth>
+</tok>
+<ns/>
+<tok id="a53" string-range="string-range(p-1,297,1)">
+<orth>,</orth>
+<lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a54" string-range="string-range(p-1,299,8)">
+<orth>Granslaw</orth>
+</tok>
+<tok id="a55" string-range="string-range(p-1,308,1)">
+<orth>i</orth>
+<lex><base>i</base><ctag>cnjcoo</ctag></lex>
+</tok>
+<tok id="a56" string-range="string-range(p-1,310,9)">
+<orth>Granissow</orth>
+</tok>
+<ns/>
+<tok id="a58" string-range="string-range(p-1,319,1)">
+<orth>,</orth>
+<lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a59" string-range="string-range(p-1,321,1)">
+<orth>a</orth>
+<lex><base>a</base><ctag>cnjcoo</ctag></lex>
+</tok>
+<tok id="a5a" string-range="string-range(p-1,323,2)">
+<orth>pò</orth>
+<lex><base>pò</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a5b" string-range="string-range(p-1,326,4)">
+<orth>1400</orth>
+</tok>
+<tok id="a5c" string-range="string-range(p-1,331,6)">
+<orth>pòkôza</orth>
+</tok>
+<tok id="a5d" string-range="string-range(p-1,338,2)">
+<orth>sã</orth>
+<lex><base>sã</base><ctag>prn:ref:acc</ctag></lex>
+</tok>
+<tok id="a5e" string-range="string-range(p-1,341,2)">
+<orth>ju</orth>
+<lex><base>ju</base><ctag>adv</ctag></lex>
+</tok>
+<tok id="a5f" string-range="string-range(p-1,344,5)">
+<orth>miona</orth>
+<lex><base>miono</base><ctag>n:pl:acc:nt</ctag></lex>
+<lex><base>miono</base><ctag>n:pl:nom:nt</ctag></lex>
+<lex><base>miono</base><ctag>n:pl:voc:nt</ctag></lex>
+<lex><base>miono</base><ctag>n:sg:gen:nt</ctag></lex>
+</tok>
+<tok id="a60" string-range="string-range(p-1,350,5)">
+<orth>Redau</orth>
+</tok>
+<tok id="a61" string-range="string-range(p-1,356,1)">
+<orth>i</orth>
+<lex><base>i</base><ctag>cnjcoo</ctag></lex>
+</tok>
+<tok id="a62" string-range="string-range(p-1,358,4)">
+<orth>Rede</orth>
+</tok>
+<ns/>
+<tok id="a64" string-range="string-range(p-1,362,1)">
+<orth>.</orth>
+<lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+<lex><base>.</base><ctag>sent</ctag></lex>
+</tok>
+</chunk>
+<chunk type="s">
+<tok id="a65" string-range="string-range(p-1,365,1)">
+<orth>1</orth>
+<lex><base>1</base><ctag>num:sg</ctag></lex>
+</tok>
+<tok id="a66" string-range="string-range(p-1,367,9)">
+<orth>stëcznika</orth>
+<lex><base>stëcznik</base><ctag>n:sg:gen:mi</ctag></lex>
+</tok>
+<tok id="a67" string-range="string-range(p-1,377,4)">
+<orth>1967</orth>
+</tok>
+<tok id="a68" string-range="string-range(p-1,382,4)">
+<orth>rokù</orth>
+<lex><base>rok</base><ctag>n:sg:gen:mi</ctag></lex>
+<lex><base>rok</base><ctag>n:sg:loc:mi</ctag></lex>
+<lex><base>rok</base><ctag>n:sg:voc:mi</ctag></lex>
+</tok>
+<tok id="a69" string-range="string-range(p-1,387,4)">
+<orth>Réda</orth>
+<lex><base>Réda</base><ctag>np:top:sg:nom:f</ctag></lex>
+</tok>
+<tok id="a6a" string-range="string-range(p-1,392,6)">
+<orth>dostaa</orth>
+</tok>
+<tok id="a6b" string-range="string-range(p-1,399,6)">
+<orth>gardné</orth>
+</tok>
+<tok id="a6c" string-range="string-range(p-1,406,5)">
+<orth>prawa</orth>
+</tok>
+<ns/>
+<tok id="a6e" string-range="string-range(p-1,411,1)">
+<orth>,</orth>
+<lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a6f" string-range="string-range(p-1,413,2)">
+<orth>mô</orth>
+<lex><base>miec</base><ctag>vbhaver:imperf:pres:p3:sg</ctag></lex>
+</tok>
+<tok id="a70" string-range="string-range(p-1,416,5)">
+<orth>dzysô</orth>
+<lex><base>dzysô</base><ctag>adv</ctag></lex>
+</tok>
+<tok id="a71" string-range="string-range(p-1,422,7)">
+<orth>sztatus</orth>
+</tok>
+<tok id="a72" string-range="string-range(p-1,430,5)">
+<orth>gardu</orth>
+<lex><base>gard</base><ctag>n:sg:gen:mi</ctag></lex>
+</tok>
+<tok id="a73" string-range="string-range(p-1,436,1)">
+<orth>w</orth>
+<lex><base>w</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a74" string-range="string-range(p-1,438,11)">
+<orth>wejrowsczim</orth>
+</tok>
+<tok id="a75" string-range="string-range(p-1,450,5)">
+<orth>krézu</orth>
+<lex><base>kréz</base><ctag>n:sg:gen:mi</ctag></lex>
+<lex><base>kréz</base><ctag>n:sg:loc:mi</ctag></lex>
+<lex><base>kréz</base><ctag>n:sg:voc:mi</ctag></lex>
+</tok>
+<tok id="a76" string-range="string-range(p-1,456,10)">
+<orth>Pòmòrsczim</orth>
+</tok>
+<tok id="a77" string-range="string-range(p-1,467,12)">
+<orth>wòjewództwie</orth>
+<lex><base>wòjewództwò</base><ctag>n:sg:dat:nt</ctag></lex>
+<lex><base>wòjewództwò</base><ctag>n:sg:loc:nt</ctag></lex>
+</tok>
+<ns/>
+<tok id="a79" string-range="string-range(p-1,479,1)">
+<orth>.</orth>
+<lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+<lex><base>.</base><ctag>sent</ctag></lex>
+</tok>
+</chunk>
+<chunk type="s">
+<tok id="a7a" string-range="string-range(p-1,481,4)">
+<orth>Réda</orth>
+<lex><base>Réda</base><ctag>np:top:sg:nom:f</ctag></lex>
+</tok>
+<tok id="a7b" string-range="string-range(p-1,486,2)">
+<orth>mô</orth>
+<lex><base>miec</base><ctag>vbhaver:imperf:pres:p3:sg</ctag></lex>
+</tok>
+<tok id="a7c" string-range="string-range(p-1,489,6)">
+<orth>greńcã</orth>
+</tok>
+<tok id="a7d" string-range="string-range(p-1,496,1)">
+<orth>z</orth>
+<lex><base>z</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a7e" string-range="string-range(p-1,498,5)">
+<orth>Rëmią</orth>
+<lex><base>Rëmiô</base><ctag>np:top:sg:ins:f</ctag></lex>
+</tok>
+<tok id="a7f" string-range="string-range(p-1,504,1)">
+<orth>ë</orth>
+<lex><base>ë</base><ctag>cnjcoo</ctag></lex>
+</tok>
+<tok id="a80" string-range="string-range(p-1,506,7)">
+<orth>Wejrowã</orth>
+</tok>
+<ns/>
+<tok id="a82" string-range="string-range(p-1,513,1)">
+<orth>,</orth>
+<lex disamb="1"><base>,</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a83" string-range="string-range(p-1,515,9)">
+<orth>ùrôbiając</orth>
+</tok>
+<tok id="a84" string-range="string-range(p-1,525,1)">
+<orth>z</orth>
+<lex><base>z</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="a85" string-range="string-range(p-1,527,4)">
+<orth>nima</orth>
+<lex><base>prpers</base><ctag>prn:pl:ins:mf:p3</ctag></lex>
+</tok>
+<tok id="a86" string-range="string-range(p-1,532,4)">
+<orth>Môłi</orth>
+</tok>
+<tok id="a87" string-range="string-range(p-1,537,10)">
+<orth>Kaszëbsczi</orth>
+</tok>
+<tok id="a88" string-range="string-range(p-1,548,8)">
+<orth>Trójgard</orth>
+</tok>
+<ns/>
+<tok id="a8a" string-range="string-range(p-1,556,1)">
+<orth>.</orth>
+<lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
+<lex><base>.</base><ctag>sent</ctag></lex>
+</tok>
+</chunk>
+<chunk type="s">
+<tok id="a8b" string-range="string-range(p-1,559,8)">
+<orth>Pòdôwczi</orth>
+</tok>
+<tok id="a8c" string-range="string-range(p-1,569,9)">
+<orth>Bùdżetowé</orth>
+</tok>
+<tok id="a8d" string-range="string-range(p-1,579,7)">
+<orth>wzątczi</orth>
+</tok>
+<tok id="a8e" string-range="string-range(p-1,587,1)">
+<orth>(</orth>
+<lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+</tok>
+<ns/>
+<tok id="a90" string-range="string-range(p-1,588,4)">
+<orth>2004</orth>
+</tok>
+<tok id="a91" string-range="string-range(p-1,593,4)">
+<orth>plan</orth>
+</tok>
+<ns/>
+<tok id="a93" string-range="string-range(p-1,597,1)">
+<orth>)</orth>
+<lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+</tok>
+<ns/>
+<tok id="a95" string-range="string-range(p-1,598,1)">
+<orth>:</orth>
+<lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="a96" string-range="string-range(p-1,600,3)">
+<orth>mln</orth>
+<lex><base>mln</base><ctag>num:sp:indecl:mf</ctag></lex>
+</tok>
+<tok id="a97" string-range="string-range(p-1,604,2)">
+<orth>zł</orth>
+</tok>
+<tok id="a98" string-range="string-range(p-1,608,9)">
+<orth>Bùdżetowé</orth>
+</tok>
+<tok id="a99" string-range="string-range(p-1,618,8)">
+<orth>wëdôwczi</orth>
+</tok>
+<tok id="a9a" string-range="string-range(p-1,627,1)">
+<orth>(</orth>
+<lex disamb="1"><base>(</base><ctag>interp</ctag></lex>
+</tok>
+<ns/>
+<tok id="a9c" string-range="string-range(p-1,628,4)">
+<orth>2004</orth>
+</tok>
+<tok id="a9d" string-range="string-range(p-1,633,4)">
+<orth>plan</orth>
+</tok>
+<ns/>
+<tok id="a9f" string-range="string-range(p-1,637,1)">
+<orth>)</orth>
+<lex disamb="1"><base>)</base><ctag>interp</ctag></lex>
+</tok>
+<ns/>
+<tok id="aa1" string-range="string-range(p-1,638,1)">
+<orth>:</orth>
+<lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+</tok>
+<tok id="aa2" string-range="string-range(p-1,640,3)">
+<orth>mln</orth>
+<lex><base>mln</base><ctag>num:sp:indecl:mf</ctag></lex>
+</tok>
+<tok id="aa3" string-range="string-range(p-1,644,2)">
+<orth>zł</orth>
+</tok>
+<tok id="aa4" string-range="string-range(p-1,648,7)">
+<orth>Lëdztwò</orth>
+</tok>
+<tok id="aa5" string-range="string-range(p-1,657,6)">
+<orth>Zgòdno</orth>
+</tok>
+<tok id="aa6" string-range="string-range(p-1,664,1)">
+<orth>z</orth>
+<lex><base>z</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="aa7" string-range="string-range(p-1,666,9)">
+<orth>pòdôwkama</orth>
+</tok>
+<tok id="aa8" string-range="string-range(p-1,676,1)">
+<orth>z</orth>
+<lex><base>z</base><ctag>pr</ctag></lex>
+</tok>
+<tok id="aa9" string-range="string-range(p-1,678,2)">
+<orth>30</orth>
+</tok>
+<tok id="aaa" string-range="string-range(p-1,681,9)">
+<orth>czerwińca</orth>
+<lex><base>czerwińc</base><ctag>n:sg:acc:mi</ctag></lex>
+<lex><base>czerwińc</base><ctag>n:sg:gen:mi</ctag></lex>
+</tok>
+<tok id="aab" string-range="string-range(p-1,691,4)">
+<orth>2004</orth>
+</tok>
+<tok id="aac" string-range="string-range(p-1,696,4)">
+<orth>rokù</orth>
+<lex><base>rok</base><ctag>n:sg:gen:mi</ctag></lex>
+<lex><base>rok</base><ctag>n:sg:loc:mi</ctag></lex>
+<lex><base>rok</base><ctag>n:sg:voc:mi</ctag></lex>
+</tok>
+<ns/>
+<tok id="aae" string-range="string-range(p-1,700,1)">
+<orth>:</orth>
+<lex disamb="1"><base>:</base><ctag>interp</ctag></lex>
+</tok>
+</chunk>
+</chunkList>
+</cesAna>
