@@ -82,6 +82,8 @@
 </tok>
 <tok id="a1a" string-range="string-range(p-1,53,11)">
 <orth>wejrowsczim</orth>
+<lex><base>wejrowsczi</base><ctag>adj:sg:loc:mi</ctag></lex>
+<lex><base>wejrowsczi</base><ctag>adj:sg:loc:ma</ctag></lex>
 </tok>
 <tok id="a1b" string-range="string-range(p-1,65,5)">
 <orth>krézu</orth>
@@ -412,6 +414,8 @@
 </tok>
 <tok id="a74" string-range="string-range(p-1,438,11)">
 <orth>wejrowsczim</orth>
+<lex><base>wejrowsczi</base><ctag>adj:sg:loc:mi</ctag></lex>
+<lex><base>wejrowsczi</base><ctag>adj:sg:loc:ma</ctag></lex>
 </tok>
 <tok id="a75" string-range="string-range(p-1,450,5)">
 <orth>krézu</orth>
