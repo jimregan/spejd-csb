@@ -79,8 +79,6 @@
 <lex disamb="1"><base>.</base><ctag>interp</ctag></lex>
 <lex><base>.</base><ctag>sent</ctag></lex>
 </tok>
-</chunk>
-<chunk type="s">
 <tok id="a1a" string-range="string-range(p-1,68,9)">
 <orth>Kaschubei</orth>
 </tok>
